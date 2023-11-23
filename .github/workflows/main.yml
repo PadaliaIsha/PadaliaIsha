@@ -1,0 +1,31 @@
+name: Generate Snake
+
+on:
+  schedule: 
+    # execute every 6 hours
+    - cron: "* */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    name: Jobs to update snake
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Snake Animation
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: PadaliaIsha
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Push the changes
+      - name: Push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
