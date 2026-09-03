@@ -1,19 +1,17 @@
 <h1 align="center">👋</h1>
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table align="center" width="900" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFD400">
   <tr>
-    <td colspan="3" align="center">
+    <td align="center" bgcolor="#FFD400">
       <img src="images/svg/header.svg" alt="Hello, I'm Isha! Technical Lead, Full Stack Developer. NodeJS | React | Web3" width="900" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="300">
-      <a href="mailto:ishapadalia24@gmail.com?subject=Hello%20Isha%20Padalia"><img src="images/svg/icon-email.svg" alt="Email" width="300" /></a>
-    </td>
-    <td align="center" width="300">
-      <a href="https://github.com/PadaliaIsha"><img src="images/svg/icon-github.svg" alt="GitHub" width="300" /></a>
-    </td>
-    <td align="center" width="300">
-      <a href="https://www.linkedin.com/in/isha-padalia/"><img src="images/svg/icon-linkedin.svg" alt="LinkedIn" width="300" /></a>
+    <td align="center" bgcolor="#FFD400" height="90">
+      <a href="mailto:ishapadalia24@gmail.com?subject=Hello%20Isha%20Padalia"><img src="images/svg/icon-email.svg" alt="Email" width="36" height="36" /></a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/PadaliaIsha"><img src="images/svg/icon-github.svg" alt="GitHub" width="36" height="36" /></a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/isha-padalia/"><img src="images/svg/icon-linkedin.svg" alt="LinkedIn" width="36" height="36" /></a>
     </td>
   </tr>
 </table>
