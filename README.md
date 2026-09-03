@@ -1,4 +1,7 @@
-<img src="images/svg/header.svg"></img>
+<h1 align="center">👋</h1>
+<p align="center">
+  <img src="images/svg/header.svg" alt="Hello, I'm Isha! Technical Lead, Full Stack Developer. NodeJS | React | Web3">
+</p>
 
 ### :space_invader: &nbsp;About Me
 
