@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="366" height="120" viewBox="0 0 366 120" role="img" aria-label="LinkedIn">
-  <rect width="366" height="120" fill="#FFD400"/>
-  <g transform="translate(161, 36)">
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="100" viewBox="0 0 300 100" role="img" aria-label="LinkedIn">
+  <rect width="300" height="100" fill="#FFD400"/>
+  <g transform="translate(128, 26)">
     <rect x="2" y="2" width="40" height="40" rx="6" fill="#111111"/>
     <path fill="#FFD400" d="M12.6 18.4h5.2V33h-5.2V18.4zm2.6-8.3c1.7 0 2.8 1.1 2.8 2.6 0 1.4-1.1 2.6-2.9 2.6h-.1c-1.7 0-2.8-1.2-2.8-2.6 0-1.5 1.2-2.6 3-2.6zM20.8 18.4h5v2h.1c.7-1.2 2.4-2.5 5-2.5 5.3 0 6.3 3.5 6.3 8V33h-5.2v-7.3c0-1.7 0-4-2.4-4s-2.8 1.9-2.8 3.9V33h-5.2V18.4z"/>
   </g>

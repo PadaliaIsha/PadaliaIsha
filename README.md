@@ -1,10 +1,22 @@
 <h1 align="center">👋</h1>
-<p align="center">
-  <img src="images/svg/header.svg" alt="Hello, I'm Isha! Technical Lead, Full Stack Developer. NodeJS | React | Web3" width="1100">
-</p>
-<p align="center">
-  <a href="mailto:ishapadalia24@gmail.com?subject=Hello%20Isha%20Padalia"><img src="images/svg/icon-email.svg" alt="Email" width="366" /></a><a href="https://github.com/PadaliaIsha"><img src="images/svg/icon-github.svg" alt="GitHub" width="366" /></a><a href="https://www.linkedin.com/in/isha-padalia/"><img src="images/svg/icon-linkedin.svg" alt="LinkedIn" width="366" /></a>
-</p>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="3" align="center">
+      <img src="images/svg/header.svg" alt="Hello, I'm Isha! Technical Lead, Full Stack Developer. NodeJS | React | Web3" width="900" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <a href="mailto:ishapadalia24@gmail.com?subject=Hello%20Isha%20Padalia"><img src="images/svg/icon-email.svg" alt="Email" width="300" /></a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/PadaliaIsha"><img src="images/svg/icon-github.svg" alt="GitHub" width="300" /></a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://www.linkedin.com/in/isha-padalia/"><img src="images/svg/icon-linkedin.svg" alt="LinkedIn" width="300" /></a>
+    </td>
+  </tr>
+</table>
 
 ### :space_invader: &nbsp;About Me
 
