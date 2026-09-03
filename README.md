@@ -124,7 +124,7 @@ Delivered blockchain modules, NFT marketplaces, token vaults, and on-chain analy
         <img height="137px" src="https://streak-stats.demolab.com/?user=PadaliaIsha&hide_border=true&theme=nightowl" alt="GitHub streak" />
     </p>
     <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=PadaliaIsha&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PadaliaIsha&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+        <img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PadaliaIsha&theme=nord_dark" alt="GitHub stats" /> <img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PadaliaIsha&theme=nord_dark" alt="Top languages" />
     </p>
 </details>
 
@@ -137,5 +137,6 @@ Delivered blockchain modules, NFT marketplaces, token vaults, and on-chain analy
 </picture>
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=PadaliaIsha&style=plastic&label=Views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=PadaliaIsha&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/PadaliaIsha/PadaliaIsha?color=black&logo=github" />
 </p>
