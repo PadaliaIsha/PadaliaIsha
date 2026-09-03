@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300" role="img" aria-label="Hello, I'm Isha!">
-  <rect width="1100" height="300" fill="#FFD400"/>
-  <text x="550" y="110" text-anchor="middle" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700">Hello, I'm Isha!</text>
-  <text x="550" y="175" text-anchor="middle" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500">Technical Lead, Full Stack Developer</text>
-  <text x="550" y="230" text-anchor="middle" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="500">NodeJS | React | Web3</text>
-</svg>
