@@ -123,9 +123,6 @@ Delivered blockchain modules, NFT marketplaces, token vaults, and on-chain analy
     <p align="center">
         <img height="137px" src="https://streak-stats.demolab.com/?user=PadaliaIsha&hide_border=true&theme=nightowl" alt="GitHub streak" />
     </p>
-    <p align="center">
-        <img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PadaliaIsha&theme=nord_dark" alt="GitHub stats" /> <img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PadaliaIsha&theme=nord_dark" alt="Top languages" />
-    </p>
 </details>
 
 <hr/>
