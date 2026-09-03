@@ -9,15 +9,15 @@
 &nbsp;&nbsp;&nbsp; :seedling: &nbsp;Full stack developer across backend, frontend, cloud, and blockchain.\
 &nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Passionate with problem solving and shipping secure, scalable platforms.\
 &nbsp;&nbsp;&nbsp; :writing_hand: &nbsp;Always studying about software architecture, system design, and product delivery.\
-&nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp;Coding since 2018 with 8+ years of experience in full stack and enterprise development.\
+&nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp;Coding since 2018 with 8+ years of experience in full stack, enterprise, and Web3 development.\
 &nbsp;&nbsp;&nbsp; :round_pushpin: &nbsp;Living in Ahmedabad, Gujarat, India.
 
 <p align="center">
   <a href="mailto:ishapadalia24@gmail.com?subject=Hello%20Isha%20Padalia"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/isha-padalia/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/PadaliaIsha"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/10307350/isha-padalia"><img src="https://img.shields.io/badge/stackoverflow-%23F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/PadaliaIsha"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/10529091/isha-padalia"><img src="https://img.shields.io/badge/stackoverflow-%23F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Isha_padalia"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 <hr/>
