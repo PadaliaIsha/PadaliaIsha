@@ -16,7 +16,8 @@
   <a href="https://www.linkedin.com/in/isha-padalia/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/PadaliaIsha"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/10529091/isha-padalia"><img src="https://img.shields.io/badge/stackoverflow-%23F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/Isha_padalia"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/Isha_padalia"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://isha-devfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <hr/>
