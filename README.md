@@ -5,19 +5,19 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp; :technologist: &nbsp;Currently working as a **Technical Lead** at [Yudiz Solutions Ltd.](https://www.yudiz.com/). \
+&nbsp;&nbsp;&nbsp; :technologist: &nbsp;Currently working as a **Technical Lead** at <a href="https://www.yudiz.com/" target="_blank" rel="noopener noreferrer">Yudiz Solutions Ltd.</a>. \
 &nbsp;&nbsp;&nbsp; :seedling: &nbsp;Full stack developer building secure enterprise platforms, APIs, and Web3 products. \
 &nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Passionate about problem solving, team leadership, and production-ready systems. \
 &nbsp;&nbsp;&nbsp; :writing_hand: &nbsp;Always studying software architecture, microservices, and blockchain engineering. \
 &nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp;Coding since 2018 with **8+ years** in full stack, enterprise, and Web3 development.
 
 <p align="center">
-  <a href="mailto:ishapadalia24@gmail.com?subject=Hello%20Isha%20Padalia"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/isha-padalia/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/PadaliaIsha"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/10529091/isha-padalia"><img src="https://img.shields.io/badge/stackoverflow-%23F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/Isha_padalia"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://isha-devfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:ishapadalia24@gmail.com?subject=Hello%20Isha%20Padalia" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/isha-padalia/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/PadaliaIsha" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/10529091/isha-padalia" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/stackoverflow-%23F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Isha_padalia" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://isha-devfolio.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-7C3AED.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <hr/>
