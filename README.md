@@ -5,12 +5,11 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp; :technologist: &nbsp;Currently working as a Technical Lead at [Yudiz Solutions Ltd.](https://www.yudiz.com/). \
-&nbsp;&nbsp;&nbsp; :seedling: &nbsp;Full stack developer across backend, frontend, cloud, and blockchain.\
-&nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Passionate with problem solving and shipping secure, scalable platforms.\
-&nbsp;&nbsp;&nbsp; :writing_hand: &nbsp;Always studying about software architecture, system design, and product delivery.\
-&nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp;Coding since 2018 with 8+ years of experience in full stack, enterprise, and Web3 development.\
-&nbsp;&nbsp;&nbsp; :round_pushpin: &nbsp;Living in Ahmedabad, Gujarat, India.
+&nbsp;&nbsp;&nbsp; :technologist: &nbsp;Currently working as a **Technical Lead** at [Yudiz Solutions Ltd.](https://www.yudiz.com/). \
+&nbsp;&nbsp;&nbsp; :seedling: &nbsp;Full stack developer building secure enterprise platforms, APIs, and Web3 products. \
+&nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Passionate about problem solving, team leadership, and production-ready systems. \
+&nbsp;&nbsp;&nbsp; :writing_hand: &nbsp;Always studying software architecture, microservices, and blockchain engineering. \
+&nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp;Coding since 2018 with **8+ years** in full stack, enterprise, and Web3 development.
 
 <p align="center">
   <a href="mailto:ishapadalia24@gmail.com?subject=Hello%20Isha%20Padalia"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -22,108 +21,128 @@
 
 <hr/>
 
+### :zap: &nbsp;Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
+  <img src="https://img.shields.io/badge/Foundry-1A1A1A?style=for-the-badge&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+<hr/>
+
+### :rocket: &nbsp;Featured Projects
+
 <details>
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+  <summary><b>NubX — Gold-Backed Stablecoin Platform</b></summary>
   <br/>
 
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
-![Solidity](https://img.shields.io/badge/SOLIDITY-363636.svg?&style=flat&logo=solidity&logoColor=white)&nbsp;
-![Rust](https://img.shields.io/badge/RUST-000000.svg?&style=flat&logo=rust&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
-![Express](https://img.shields.io/badge/EXPRESS-000000.svg?&style=flat&logo=express&logoColor=white)&nbsp;\
-![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)&nbsp;
-![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
-![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;
-![WebSocket](https://img.shields.io/badge/WEBSOCKET-010101.svg?&style=flat&logo=socketdotio&logoColor=white)&nbsp;
-![Microservices](https://img.shields.io/badge/MICROSERVICES-2496ED.svg?&style=flat&logoColor=white)&nbsp;\
-![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
-![Solana](https://img.shields.io/badge/SOLANA-9945FF.svg?&style=flat&logo=solana&logoColor=white)&nbsp;
-![Polygon](https://img.shields.io/badge/POLYGON-8247E5.svg?&style=flat&logo=polygon&logoColor=white)&nbsp;
-![BSC](https://img.shields.io/badge/BNB%20CHAIN-F0B90B.svg?&style=flat&logo=binance&logoColor=black)&nbsp;
-![Hyperledger](https://img.shields.io/badge/HYPERLEDGER%20FABRIC-2F3134.svg?&style=flat&logo=hyperledger&logoColor=white)&nbsp;
-![Anchor](https://img.shields.io/badge/SOLANA%20ANCHOR-9945FF.svg?&style=flat&logo=solana&logoColor=white)&nbsp;\
-![React](https://img.shields.io/badge/REACT-20232A.svg?&style=flat&logo=react&logoColor=61DAFB)&nbsp;
-![NextJS](https://img.shields.io/badge/NEXTJS-000000.svg?&style=flat&logo=nextdotjs&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white)&nbsp;
-![web3.js](https://img.shields.io/badge/WEB3.JS-F16822.svg?&style=flat&logo=web3dotjs&logoColor=white)&nbsp;
-![ethers.js](https://img.shields.io/badge/ETHERS.JS-2535A0.svg?&style=flat&logoColor=white)&nbsp;\
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;
-![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
-![CouchDB](https://img.shields.io/badge/COUCHDB-E42528.svg?&style=flat&logo=apachecouchdb&logoColor=white)&nbsp;
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB.svg?&style=flat&logo=ipfs&logoColor=white)&nbsp;\
-![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
-![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
-![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;\
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-![Hardhat](https://img.shields.io/badge/HARDHAT-FFF100.svg?&style=flat&logo=hardhat&logoColor=black)&nbsp;
-![Truffle](https://img.shields.io/badge/TRUFFLE-3FE0C5.svg?&style=flat&logoColor=black)&nbsp;
-![Foundry](https://img.shields.io/badge/FOUNDRY-1A1A1A.svg?&style=flat&logoColor=white)&nbsp;
-![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logoColor=white)&nbsp;
+Multi-layered stablecoin with custom minting/burning controllers, banking custodian integration, hot/cold wallet clusters, and real-time ledger settlement. Includes automated KYC/AML onboarding and multi-tenant admin dashboards with regulatory reporting.
 
+`Solidity` `Node.js` `Microservices` `Wallets` `KYC/AML`
 </details>
 
 <details>
-  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
+  <summary><b>Assetify — Real-World Asset Fractionalization</b></summary>
   <br/>
 
-![Quorum](https://img.shields.io/badge/QUORUM-121D33.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
-![Cross-Chain](https://img.shields.io/badge/CROSS%20CHAIN%20BRIDGES-9945FF.svg?&style=flat&logoColor=white)&nbsp;
-![Corda](https://img.shields.io/badge/CORDA-E31C4B.svg?&style=flat&logoColor=white)&nbsp;
-![Gas Optimisation](https://img.shields.io/badge/GAS%20OPTIMISATION-F7931A.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
-![IBM Cloud](https://img.shields.io/badge/IBM%20CLOUD-0F62FE.svg?&style=flat&logo=ibm&logoColor=white)&nbsp;\
-![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/POSTMAN-FF6C37.svg?&style=flat&logo=postman&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/JIRA-0052CC.svg?&style=flat&logo=jira&logoColor=white)&nbsp;
-![Metamask](https://img.shields.io/badge/METAMASK-E2761B.svg?&style=flat&logo=metamask&logoColor=white)&nbsp;
-![Phantom](https://img.shields.io/badge/PHANTOM-AB9FF2.svg?&style=flat&logo=phantom&logoColor=black)&nbsp;\
-![Solflare](https://img.shields.io/badge/SOLFLARE-FC9965.svg?&style=flat&logo=solana&logoColor=white)&nbsp;
-![Raydium](https://img.shields.io/badge/RAYDIUM-3772FF.svg?&style=flat&logo=solana&logoColor=white)&nbsp;
-![Jupiter](https://img.shields.io/badge/JUPITER-C7F284.svg?&style=flat&logoColor=black)&nbsp;
-![TradingView](https://img.shields.io/badge/TRADINGVIEW-131722.svg?&style=flat&logo=tradingview&logoColor=white)&nbsp;\
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
-![Multi-Sig](https://img.shields.io/badge/MULTI%20SIG%20WALLETS-121D33.svg?&style=flat&logo=bitcoin&logoColor=white)&nbsp;
-![Secure Review](https://img.shields.io/badge/SECURE%20CODE%20REVIEW-6DB33F.svg?&style=flat&logoColor=white)&nbsp;\
-![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-121D33.svg?&style=flat&logo=blockchain-dot-com&logoColor=white)&nbsp;
-![Cryptocurrencies](https://img.shields.io/badge/CRYPTOCURRENCY-00979D.svg?&style=flat&logoColor=white)&nbsp;
-![Staking](https://img.shields.io/badge/STAKING%20%2F%20VESTING-F7931A.svg?&style=flat&logo=bitcoin&logoColor=white)&nbsp;
-![NFT](https://img.shields.io/badge/NFT%20MARKETPLACE-80F213.svg?&style=flat&logoColor=black)&nbsp;
+Secure tokenization framework converting physical property into liquid digital fractions, with fractional distribution backends, automated yield payouts, off-chain registry sync, and verifiable compliance records.
 
+`Tokenization` `RWA` `Ledger Sync` `Portfolio Tracking`
 </details>
 
 <details>
-  <summary><b>:briefcase: &nbsp;Experience & projects</b></summary>
+  <summary><b>Orbitt — Solana Token Automation Platform</b></summary>
   <br/>
 
-**Technical Lead** — Yudiz Solutions Ltd. *(Oct 2022 – Present)*  
-Direct cross-functional teams through agile sprints, microservice design, secure code reviews, and production rollouts.
+All-in-one Solana platform for token creation, LP setup, sniping, trading, auto-sell controls, and volume boosting through web and Telegram flows. Supports wallet campaigns, liquidity activity, and market-making workflows.
 
-**Senior Software Developer** — Yudiz Solutions Ltd. *(Aug 2021 – Sep 2022)*  
-Built scalable web apps, real-time pricing dashboards, and high-throughput Node.js / WebSocket trade bots.
-
-**Associate Software Developer** — Yudiz Solutions Ltd. *(Jan 2018 – Jul 2021)*  
-Delivered blockchain modules, NFT marketplaces, token vaults, and on-chain analytics across 10+ client projects.
-
-**Key projects:** NubX (gold-backed stablecoin) · Assetify (RWA fractionalization) · Orbitt (Solana token automation) · Blocktix · Epiko · JOJO · CryptoTrade Tips · NFT Talent
-
-**Education:** BE — Information Technology, Atmiya Institute of Technology & Science, Rajkot *(2014 – 2018)*
-
-**Certifications:** Corda Certified Developer (R3) · IBM Blockchain Essentials & Foundation Developer · Blockchain Training Alliance (Business Foundations, Hyperledger Fabric) · Shri Dewang Mehta IT Award 2017
-
+`Solana` `Anchor` `Telegram` `Trading Automation`
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>More shipped work</b></summary>
   <br/>
-    <p align="center">
-        <img height="137px" src="https://streak-stats.demolab.com/?user=PadaliaIsha&hide_border=true&theme=nightowl" alt="GitHub streak" />
-    </p>
+
+- **Blocktix** — Gasless permissioned ticketing with secondary fractionalization and dupe-attack validation  
+- **Epiko** — High-speed NFT minting, listing, and open bidding with race-condition guards  
+- **JOJO** — Gujarati OTT platform for movies, series, Natak, documentaries, and music  
+- **CryptoTrade Tips** — On-chain whale tracking, market-depth analytics, and tiered access  
+- **NFT Talent** — Multi-chain ERC721/ERC1155 marketplace with multiple auction types
 </details>
+
+<hr/>
+
+### :briefcase: &nbsp;Experience
+
+<details open>
+  <summary><b>Technical Lead — Yudiz Solutions Ltd.</b> · Oct 2022 – Present</summary>
+  <br/>
+
+- Lead cross-functional teams through agile sprints, microservice design, and production rollouts  
+- Design scalable backends for transaction systems, wallet tracking, and custom indexing pipelines  
+- Own secure code reviews and highly available cluster infrastructure deployments
+</details>
+
+<details>
+  <summary><b>Senior Software Developer — Yudiz Solutions Ltd.</b> · Aug 2021 – Sep 2022</summary>
+  <br/>
+
+- Built production-grade web apps, real-time pricing dashboards, and automated trade execution bots  
+- Developed high-throughput Node.js REST and WebSocket middleware for programmatic trading flows
+</details>
+
+<details>
+  <summary><b>Associate Software Developer — Yudiz Solutions Ltd.</b> · Jan 2018 – Jul 2021</summary>
+  <br/>
+
+- Delivered blockchain modules, token vaults, NFT marketplaces, and React UIs  
+- Automated on-chain data pipelines powering analytics dashboards across 10+ client projects
+</details>
+
+<hr/>
+
+### :mortar_board: &nbsp;Education & Certifications
+
+- **BE — Information Technology** · Atmiya Institute of Technology & Science, Rajkot *(2014 – 2018)*
+- Corda Certified Developer — R3 *(Oct 2019)*
+- IBM Blockchain Essentials & Foundation Developer — IBM *(Jan 2018)*
+- Blockchain Overview: Business Foundations — Blockchain Training Alliance *(2020)*
+- Introduction to Hyperledger Fabric & Composer — Blockchain Training Alliance *(2020)*
+- Shri Dewang Mehta IT Award 2017 — Certificate of Excellence *(NASSCOM / GTU)*
+
+<hr/>
+
+### :gear: &nbsp;GitHub Statistics
+
+<p align="center">
+  <img height="160" src="https://streak-stats.demolab.com/?user=PadaliaIsha&hide_border=true&theme=nightowl" alt="GitHub streak" />
+</p>
 
 <hr/>
 
