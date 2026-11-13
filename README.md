@@ -5,11 +5,12 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp; :technologist: &nbsp;Currently working as a **Technical Lead** at <a href="https://www.yudiz.com/" target="_blank" rel="noopener noreferrer">Yudiz Solutions Ltd.</a>. \
-&nbsp;&nbsp;&nbsp; :seedling: &nbsp;Full stack developer building secure enterprise platforms, APIs, and Web3 products. \
-&nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Passionate about problem solving, team leadership, and production-ready systems. \
-&nbsp;&nbsp;&nbsp; :writing_hand: &nbsp;Always studying software architecture, microservices, and blockchain engineering. \
-&nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp;Coding since 2018 with **8+ years** in full stack, enterprise, and Web3 development.
+&nbsp;&nbsp;&nbsp; :technologist: &nbsp;**Technical Lead & Technical Project Manager** at <a href="https://www.yudiz.com/" target="_blank" rel="noopener noreferrer">Yudiz Solutions Ltd.</a> \
+&nbsp;&nbsp;&nbsp; :building_construction: &nbsp;**Full Stack Engineer** who turns complex ideas into secure, scalable products, from architecture to production. \
+&nbsp;&nbsp;&nbsp; :compass: &nbsp;I bridge engineering and delivery: sprint planning, client alignment, code reviews, and on-time releases. \
+&nbsp;&nbsp;&nbsp; :link: &nbsp;Specialized in **Web3 & blockchain**: stablecoins, RWA tokenization, trading automation, and NFT ecosystems. \
+&nbsp;&nbsp;&nbsp; :chart_with_upwards_trend: &nbsp;**8+ years** shipping enterprise, OTT, and decentralized platforms across 10+ client projects. \
+&nbsp;&nbsp;&nbsp; :handshake: &nbsp;Open to collaborating on ambitious products where engineering quality meets real business impact.
 
 <p align="center">
   <a href="mailto:ishapadalia24@gmail.com?subject=Hello%20Isha%20Padalia" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
