@@ -1,6 +1,6 @@
 <h1 align="center">👋</h1>
 <p align="center">
-  <img src="images/svg/banner.svg" alt="Hello, I'm Isha! Technical Lead, Full Stack Developer. Web3 | NodeJS | React" width="900" />
+  <img src="images/svg/banner.svg?v=2" alt="Hello, I'm Isha! Technical Lead, Full Stack Developer. Web3 | NodeJS | React" width="900" />
 </p>
 
 ### :space_invader: &nbsp;About Me
@@ -112,15 +112,6 @@ Multi-layered stablecoin with custom minting/burning controllers, banking custod
 </details>
 
 <details>
-  <summary><b>Assetify — Real-World Asset Fractionalization</b></summary>
-  <br/>
-
-Secure tokenization framework converting physical property into liquid digital fractions, with fractional distribution backends, automated yield payouts, off-chain registry sync, and verifiable compliance records.
-
-`Tokenization` `RWA` `Ledger Sync` `Portfolio Tracking`
-</details>
-
-<details>
   <summary><b>Orbitt — Solana Token Automation Platform</b></summary>
   <br/>
 
@@ -130,12 +121,21 @@ All-in-one Solana platform for token creation, LP setup, sniping, trading, auto-
 </details>
 
 <details>
+  <summary><b>JOJO — Gujarati OTT Platform</b></summary>
+  <br/>
+
+JOJO is a Gujarati OTT entertainment platform for streaming movies, web series, shows, Natak, documentaries, and music content with a scalable streaming-ready backend and content delivery experience.
+
+`OTT` `Node.js` `React` `Streaming` `Content Platform`
+</details>
+
+<details>
   <summary><b>More shipped work</b></summary>
   <br/>
 
+- **Assetify** — Real-world asset fractionalization with tokenization, yield payouts, and compliance records  
 - **Blocktix** — Gasless permissioned ticketing with secondary fractionalization and dupe-attack validation  
 - **Epiko** — High-speed NFT minting, listing, and open bidding with race-condition guards  
-- **JOJO** — Gujarati OTT platform for movies, series, Natak, documentaries, and music  
 - **CryptoTrade Tips** — On-chain whale tracking, market-depth analytics, and tiered access  
 - **NFT Talent** — Multi-chain ERC721/ERC1155 marketplace with multiple auction types
 </details>
