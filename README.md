@@ -1,10 +1,6 @@
 <h1 align="center">👋</h1>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/svg/banner.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="images/svg/banner-light.svg">
-    <img src="images/svg/banner.svg?v=2" alt="Hello, I'm Isha! Technical Lead, Full Stack Developer. Web3 | NodeJS | React" width="900" />
-  </picture>
+  <img src="images/svg/banner.svg?v=2" alt="Hello, I'm Isha! Technical Lead, Full Stack Developer. Web3 | NodeJS | React" width="900" />
 </p>
 
 ### :space_invader: &nbsp;About Me
@@ -12,11 +8,11 @@
 &nbsp;&nbsp;&nbsp; :technologist: &nbsp;**Technical Lead & Technical Project Manager** at <a href="https://www.yudiz.com/" target="_blank" rel="noopener noreferrer">Yudiz Solutions Ltd.</a> \
 &nbsp;&nbsp;&nbsp; :building_construction: &nbsp;**Full Stack Engineer** who turns complex ideas into secure, scalable products, from architecture to production. \
 &nbsp;&nbsp;&nbsp; :compass: &nbsp;I bridge engineering and delivery: sprint planning, client alignment, code reviews, and on-time releases. \
-&nbsp;&nbsp;&nbsp; :link: &nbsp;Specialized in **Web3 & blockchain**: stablecoins, RWA tokenization, trading automation, and NFT ecosystems. \
-&nbsp;&nbsp;&nbsp; :chart_with_upwards_trend: &nbsp;**8+ years** shipping enterprise, OTT, and decentralized platforms across 10+ client projects. \
-&nbsp;&nbsp;&nbsp; :dart: &nbsp;**Currently focused on** tokenized real-world assets, Solana & TON trading infrastructure, and OTT platforms. \
-&nbsp;&nbsp;&nbsp; :speech_balloon: &nbsp;**Ask me about** system architecture, smart contract design, technical delivery, and scaling engineering teams. \
-&nbsp;&nbsp;&nbsp; :handshake: &nbsp;**Open to** technical leadership roles, Web3 consulting, and collaborating on ambitious products.
+&nbsp;&nbsp;&nbsp; :link: &nbsp;**Full stack delivery** across web apps, admin dashboards, REST & GraphQL APIs, real-time systems, mobile apps, and Web3 products. \
+&nbsp;&nbsp;&nbsp; :chart_with_upwards_trend: &nbsp;**8+ years** shipping enterprise SaaS, OTT streaming, fintech, trading, and decentralized platforms across 10+ client projects. \
+&nbsp;&nbsp;&nbsp; :dart: &nbsp;**Currently focused on** scalable backends & microservices, OTT streaming platforms, and tokenized real-world assets. \
+&nbsp;&nbsp;&nbsp; :speech_balloon: &nbsp;**Ask me about** system architecture, API & database design, cloud deployments, smart contracts, and scaling engineering teams. \
+&nbsp;&nbsp;&nbsp; :handshake: &nbsp;**Open to** technical leadership roles, full stack & Web3 consulting, and collaborating on ambitious products.
 
 <p align="center">
   <a href="mailto:ishapadalia24@gmail.com?subject=Hello%20Isha%20Padalia" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -151,3 +147,8 @@ All-in-one Solana platform for token creation, LP setup, sniping, trading, auto-
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PadaliaIsha/PadaliaIsha/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PadaliaIsha/PadaliaIsha/output/github-contribution-grid-snake.svg">
 </picture>
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=PadaliaIsha&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/PadaliaIsha/PadaliaIsha?color=black&logo=github" />
+</p>
