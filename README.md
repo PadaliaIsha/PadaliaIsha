@@ -135,10 +135,6 @@ All-in-one Solana platform for token creation, LP setup, sniping, trading, auto-
 </p>
 
 <p align="center">
-  <img src="metrics.isocalendar.svg" alt="GitHub activity calendar" />
-</p>
-
-<p align="center">
   <a href="https://stackoverflow.com/users/10529091/isha-padalia" target="_blank" rel="noopener noreferrer">
     <img src="https://stackoverflow.com/users/flair/10529091.png?theme=dark" alt="Isha Padalia on Stack Overflow" />
   </a>
