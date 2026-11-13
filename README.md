@@ -103,10 +103,7 @@
 ### :rocket: &nbsp;Featured Projects
 
 <details open>
-  <summary>
-    <img src="https://img.shields.io/badge/JOJO-7C3AED?style=for-the-badge&labelColor=1F2937" alt="JOJO" />
-    &nbsp;<b>Gujarati OTT Platform</b>
-  </summary>
+  <summary>🎬 &nbsp;<b>JOJO</b> &nbsp;·&nbsp; <i>Gujarati OTT Platform</i></summary>
   <br/>
 
 JOJO is a Gujarati OTT entertainment platform for streaming movies, web series, shows, Natak, documentaries, and music content with a scalable streaming-ready backend and content delivery experience.
@@ -115,10 +112,7 @@ JOJO is a Gujarati OTT entertainment platform for streaming movies, web series, 
 </details>
 
 <details>
-  <summary>
-    <img src="https://img.shields.io/badge/NubX-F59E0B?style=for-the-badge&labelColor=1F2937" alt="NubX" />
-    &nbsp;<b>Gold-Backed Stablecoin Platform</b>
-  </summary>
+  <summary>🪙 &nbsp;<b>NubX</b> &nbsp;·&nbsp; <i>Gold-Backed Stablecoin Platform</i></summary>
   <br/>
 
 Multi-layered stablecoin with custom minting/burning controllers, banking custodian integration, hot/cold wallet clusters, and real-time ledger settlement. Includes automated KYC/AML onboarding and multi-tenant admin dashboards with regulatory reporting.
@@ -127,10 +121,7 @@ Multi-layered stablecoin with custom minting/burning controllers, banking custod
 </details>
 
 <details>
-  <summary>
-    <img src="https://img.shields.io/badge/Orbitt-9945FF?style=for-the-badge&labelColor=1F2937" alt="Orbitt" />
-    &nbsp;<b>Solana Token Automation Platform</b>
-  </summary>
+  <summary>⚡ &nbsp;<b>Orbitt</b> &nbsp;·&nbsp; <i>Solana Token Automation Platform</i></summary>
   <br/>
 
 All-in-one Solana platform for token creation, LP setup, sniping, trading, auto-sell controls, and volume boosting through web and Telegram flows. Supports wallet campaigns, liquidity activity, and market-making workflows.
@@ -139,16 +130,14 @@ All-in-one Solana platform for token creation, LP setup, sniping, trading, auto-
 </details>
 
 <details>
-  <summary>
-    <img src="https://img.shields.io/badge/More_shipped_work-0F766E?style=for-the-badge&labelColor=1F2937" alt="More shipped work" />
-  </summary>
+  <summary>📦 &nbsp;<b>More Shipped Work</b></summary>
   <br/>
 
-- <img src="https://img.shields.io/badge/Assetify-0EA5E9?style=flat-square" alt="Assetify" /> Real-world asset fractionalization with tokenization, yield payouts, and compliance records  
-- <img src="https://img.shields.io/badge/Blocktix-10B981?style=flat-square" alt="Blocktix" /> Gasless permissioned ticketing with secondary fractionalization and dupe-attack validation  
-- <img src="https://img.shields.io/badge/Epiko-EC4899?style=flat-square" alt="Epiko" /> High-speed NFT minting, listing, and open bidding with race-condition guards  
-- <img src="https://img.shields.io/badge/CryptoTrade_Tips-F97316?style=flat-square" alt="CryptoTrade Tips" /> On-chain whale tracking, market-depth analytics, and tiered access  
-- <img src="https://img.shields.io/badge/NFT_Talent-8B5CF6?style=flat-square" alt="NFT Talent" /> Multi-chain ERC721/ERC1155 marketplace with multiple auction types
+- **Assetify** &nbsp;·&nbsp; Real-world asset fractionalization with tokenization, yield payouts, and compliance records  
+- **Blocktix** &nbsp;·&nbsp; Gasless permissioned ticketing with secondary fractionalization and dupe-attack validation  
+- **Epiko** &nbsp;·&nbsp; High-speed NFT minting, listing, and open bidding with race-condition guards  
+- **CryptoTrade Tips** &nbsp;·&nbsp; On-chain whale tracking, market-depth analytics, and tiered access  
+- **NFT Talent** &nbsp;·&nbsp; Multi-chain ERC721/ERC1155 marketplace with multiple auction types
 </details>
 
 <hr/>
