@@ -8,10 +8,10 @@
 &nbsp;&nbsp;&nbsp; :technologist: &nbsp;**Technical Lead & Technical Project Manager** at <a href="https://www.yudiz.com/" target="_blank" rel="noopener noreferrer">Yudiz Solutions Ltd.</a> \
 &nbsp;&nbsp;&nbsp; :building_construction: &nbsp;**Full Stack Engineer** who turns complex ideas into secure, scalable products, from architecture to production. \
 &nbsp;&nbsp;&nbsp; :compass: &nbsp;I bridge engineering and delivery: sprint planning, client alignment, code reviews, and on-time releases. \
-&nbsp;&nbsp;&nbsp; :link: &nbsp;**Full stack delivery** across web apps, admin dashboards, REST & GraphQL APIs, real-time systems, mobile apps, and Web3 products. \
+&nbsp;&nbsp;&nbsp; :link: &nbsp;**Full stack delivery** across web apps, dashboards, APIs, real-time systems, mobile, and Web3. \
 &nbsp;&nbsp;&nbsp; :chart_with_upwards_trend: &nbsp;**8+ years** shipping enterprise SaaS, OTT streaming, fintech, trading, and decentralized platforms across 10+ client projects. \
 &nbsp;&nbsp;&nbsp; :dart: &nbsp;**Currently focused on** scalable backends & microservices, OTT streaming platforms, and tokenized real-world assets. \
-&nbsp;&nbsp;&nbsp; :speech_balloon: &nbsp;**Ask me about** system architecture, API & database design, cloud deployments, smart contracts, and scaling engineering teams. \
+&nbsp;&nbsp;&nbsp; :speech_balloon: &nbsp;**Ask me about** system architecture, API & database design, cloud, and scaling teams. \
 &nbsp;&nbsp;&nbsp; :handshake: &nbsp;**Open to** technical leadership roles, full stack & Web3 consulting, and collaborating on ambitious products.
 
 <p align="center">
