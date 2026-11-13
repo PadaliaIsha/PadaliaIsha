@@ -1,6 +1,10 @@
 <h1 align="center">👋</h1>
 <p align="center">
-  <img src="images/svg/banner.svg?v=2" alt="Hello, I'm Isha! Technical Lead, Full Stack Developer. Web3 | NodeJS | React" width="900" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/svg/banner.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="images/svg/banner-light.svg">
+    <img src="images/svg/banner.svg?v=2" alt="Hello, I'm Isha! Technical Lead, Full Stack Developer. Web3 | NodeJS | React" width="900" />
+  </picture>
 </p>
 
 ### :space_invader: &nbsp;About Me
@@ -10,7 +14,9 @@
 &nbsp;&nbsp;&nbsp; :compass: &nbsp;I bridge engineering and delivery: sprint planning, client alignment, code reviews, and on-time releases. \
 &nbsp;&nbsp;&nbsp; :link: &nbsp;Specialized in **Web3 & blockchain**: stablecoins, RWA tokenization, trading automation, and NFT ecosystems. \
 &nbsp;&nbsp;&nbsp; :chart_with_upwards_trend: &nbsp;**8+ years** shipping enterprise, OTT, and decentralized platforms across 10+ client projects. \
-&nbsp;&nbsp;&nbsp; :handshake: &nbsp;Open to collaborating on ambitious products where engineering quality meets real business impact.
+&nbsp;&nbsp;&nbsp; :dart: &nbsp;**Currently focused on** tokenized real-world assets, Solana & TON trading infrastructure, and OTT platforms. \
+&nbsp;&nbsp;&nbsp; :speech_balloon: &nbsp;**Ask me about** system architecture, smart contract design, technical delivery, and scaling engineering teams. \
+&nbsp;&nbsp;&nbsp; :handshake: &nbsp;**Open to** technical leadership roles, Web3 consulting, and collaborating on ambitious products.
 
 <p align="center">
   <a href="mailto:ishapadalia24@gmail.com?subject=Hello%20Isha%20Padalia" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,6 +53,8 @@
 JOJO is a Gujarati OTT entertainment platform for streaming movies, web series, shows, Natak, documentaries, and music content with a scalable streaming-ready backend and content delivery experience.
 
 `OTT` `Node.js` `React` `Streaming` `Content Platform`
+
+:link: <a href="https://jojoapp.in/" target="_blank" rel="noopener noreferrer">jojoapp.in</a>
 </details>
 
 <details>
@@ -56,6 +64,8 @@ JOJO is a Gujarati OTT entertainment platform for streaming movies, web series, 
 Multi-layered stablecoin with custom minting/burning controllers, banking custodian integration, hot/cold wallet clusters, and real-time ledger settlement. Includes automated KYC/AML onboarding and multi-tenant admin dashboards with regulatory reporting.
 
 `Solidity` `Node.js` `Microservices` `Wallets` `KYC/AML`
+
+:link: <a href="https://www.yudiz.com/portfolio/vaultledger/" target="_blank" rel="noopener noreferrer">View case study</a>
 </details>
 
 <details>
@@ -65,6 +75,8 @@ Multi-layered stablecoin with custom minting/burning controllers, banking custod
 All-in-one Solana platform for token creation, LP setup, sniping, trading, auto-sell controls, and volume boosting through web and Telegram flows. Supports wallet campaigns, liquidity activity, and market-making workflows.
 
 `Solana` `Anchor` `Telegram` `Trading Automation`
+
+:link: <a href="https://t.me/OrbittMM_bot" target="_blank" rel="noopener noreferrer">t.me/OrbittMM_bot</a>
 </details>
 
 <details>
@@ -120,10 +132,16 @@ All-in-one Solana platform for token creation, LP setup, sniping, trading, auto-
 
 <hr/>
 
-### :gear: &nbsp;GitHub Statistics
+### :gear: &nbsp;GitHub & Community
 
 <p align="center">
   <img height="160" src="https://streak-stats.demolab.com/?user=PadaliaIsha&hide_border=true&theme=nightowl" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <a href="https://stackoverflow.com/users/10529091/isha-padalia" target="_blank" rel="noopener noreferrer">
+    <img src="https://stackoverflow.com/users/flair/10529091.png?theme=dark" alt="Isha Padalia on Stack Overflow" />
+  </a>
 </p>
 
 <hr/>
@@ -133,8 +151,3 @@ All-in-one Solana platform for token creation, LP setup, sniping, trading, auto-
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PadaliaIsha/PadaliaIsha/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PadaliaIsha/PadaliaIsha/output/github-contribution-grid-snake.svg">
 </picture>
-
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=PadaliaIsha&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/PadaliaIsha/PadaliaIsha?color=black&logo=github" />
-</p>
