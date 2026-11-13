@@ -102,6 +102,15 @@
 
 ### :rocket: &nbsp;Featured Projects
 
+<details open>
+  <summary><b>JOJO — Gujarati OTT Platform</b></summary>
+  <br/>
+
+JOJO is a Gujarati OTT entertainment platform for streaming movies, web series, shows, Natak, documentaries, and music content with a scalable streaming-ready backend and content delivery experience.
+
+`OTT` `Node.js` `React` `Streaming` `Content Platform`
+</details>
+
 <details>
   <summary><b>NubX — Gold-Backed Stablecoin Platform</b></summary>
   <br/>
@@ -118,15 +127,6 @@ Multi-layered stablecoin with custom minting/burning controllers, banking custod
 All-in-one Solana platform for token creation, LP setup, sniping, trading, auto-sell controls, and volume boosting through web and Telegram flows. Supports wallet campaigns, liquidity activity, and market-making workflows.
 
 `Solana` `Anchor` `Telegram` `Trading Automation`
-</details>
-
-<details>
-  <summary><b>JOJO — Gujarati OTT Platform</b></summary>
-  <br/>
-
-JOJO is a Gujarati OTT entertainment platform for streaming movies, web series, shows, Natak, documentaries, and music content with a scalable streaming-ready backend and content delivery experience.
-
-`OTT` `Node.js` `React` `Streaming` `Content Platform`
 </details>
 
 <details>
