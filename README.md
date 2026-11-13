@@ -24,79 +24,16 @@
 
 ### :zap: &nbsp;Tech Stack
 
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black" />
-</p>
-
-**Backend, Frontend & Mobile**
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-
-**Blockchain & Web3**
-
-<p>
-  <img src="https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/BNB_Chain-F0B90B?style=for-the-badge&logo=bnbchain&logoColor=black" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=ton&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Foundry-1A1A1A?style=for-the-badge&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge&logoColor=white" />
-</p>
-
-**Databases**
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
-</p>
-
-**Cloud & DevOps**
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-</p>
-
-**Project Management**
-
-<p>
-  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Scrum-009688?style=for-the-badge&logo=scrumalliance&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Basecamp-1D2D35?style=for-the-badge&logo=basecamp&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</p>
+| Area | Skills |
+|---|---|
+| **Languages** | JavaScript &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Solidity &nbsp;·&nbsp; Rust |
+| **Backend** | Node.js &nbsp;·&nbsp; NestJS &nbsp;·&nbsp; Express &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; GraphQL &nbsp;·&nbsp; WebSocket &nbsp;·&nbsp; Microservices |
+| **Frontend & Mobile** | React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Flutter |
+| **Blockchain & Web3** | Ethereum / EVM &nbsp;·&nbsp; BNB Chain &nbsp;·&nbsp; Polygon &nbsp;·&nbsp; Solana &nbsp;·&nbsp; TON &nbsp;·&nbsp; Hyperledger Fabric |
+| **Web3 Tooling** | Hardhat &nbsp;·&nbsp; Foundry &nbsp;·&nbsp; Truffle &nbsp;·&nbsp; web3.js &nbsp;·&nbsp; ethers.js &nbsp;·&nbsp; Solana Anchor |
+| **Databases** | MongoDB &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Redis &nbsp;·&nbsp; IPFS |
+| **Cloud & DevOps** | AWS &nbsp;·&nbsp; Google Cloud &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; GitHub Actions &nbsp;·&nbsp; GitLab CI |
+| **Project Management** | Agile &nbsp;·&nbsp; Scrum &nbsp;·&nbsp; Jira &nbsp;·&nbsp; Basecamp &nbsp;·&nbsp; Trello &nbsp;·&nbsp; Notion |
 
 <hr/>
 
