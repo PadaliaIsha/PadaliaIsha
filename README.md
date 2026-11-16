@@ -38,51 +38,22 @@
 | **Cloud & DevOps** | AWS &nbsp;·&nbsp; Google Cloud &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; GitHub Actions &nbsp;·&nbsp; GitLab CI |
 | **Project Management** | Agile &nbsp;·&nbsp; Scrum &nbsp;·&nbsp; Jira &nbsp;·&nbsp; Basecamp &nbsp;·&nbsp; Trello &nbsp;·&nbsp; Notion |
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,solidity,rust,nodejs,nestjs,express,graphql,react,nextjs,flutter,mongodb,postgres,redis,ipfs,aws,gcp,docker,kubernetes,githubactions,gitlab&perline=11" alt="Tech stack icons" />
+</p>
+
 <hr/>
 
 ### :rocket: &nbsp;Featured Projects
 
-<details open>
-  <summary>🎬 &nbsp;<b>JOJO</b> &nbsp;·&nbsp; <i>Gujarati OTT Platform</i></summary>
-  <br/>
-
-JOJO is a Gujarati OTT entertainment platform for streaming movies, web series, shows, Natak, documentaries, and music content with a scalable streaming-ready backend and content delivery experience.
-
-`OTT` `Node.js` `React` `Streaming` `Content Platform`
-
-:link: <a href="https://jojoapp.in/" target="_blank" rel="noopener noreferrer">jojoapp.in</a>
-</details>
-
-<details open>
-  <summary>⚡ &nbsp;<b>Orbitt</b> &nbsp;·&nbsp; <i>Solana Token Automation Platform</i></summary>
-  <br/>
-
-All-in-one Solana platform for token creation, LP setup, sniping, trading, auto-sell controls, and volume boosting through web and Telegram flows. Supports wallet campaigns, liquidity activity, and market-making workflows.
-
-`Solana` `Anchor` `Telegram` `Trading Automation`
-
-:link: <a href="https://t.me/OrbittMM_bot" target="_blank" rel="noopener noreferrer">t.me/OrbittMM_bot</a>
-</details>
-
-<details open>
-  <summary>🪙 &nbsp;<b>NubX</b> &nbsp;·&nbsp; <i>Gold-Backed Stablecoin Platform</i></summary>
-  <br/>
-
-Multi-layered stablecoin with custom minting/burning controllers, banking custodian integration, hot/cold wallet clusters, and real-time ledger settlement. Includes automated KYC/AML onboarding and multi-tenant admin dashboards with regulatory reporting.
-
-`Solidity` `Node.js` `Microservices` `Wallets` `KYC/AML`
-</details>
-
-<details open>
-  <summary>📦 &nbsp;<b>More Shipped Work</b></summary>
-  <br/>
-
-- **Assetify** &nbsp;·&nbsp; Real-world asset fractionalization with tokenization, yield payouts, and compliance records  
-- **Blocktix** &nbsp;·&nbsp; Gasless permissioned ticketing with secondary fractionalization and dupe-attack validation  
-- **Epiko** &nbsp;·&nbsp; High-speed NFT minting, listing, and open bidding with race-condition guards  
-- **CryptoTrade Tips** &nbsp;·&nbsp; On-chain whale tracking, market-depth analytics, and tiered access  
-- **NFT Talent** &nbsp;·&nbsp; Multi-chain ERC721/ERC1155 marketplace with multiple auction types
-</details>
+<p align="center">
+  <a href="https://jojoapp.in/" target="_blank" rel="noopener noreferrer"><img src="images/svg/projects/jojo.svg" alt="JOJO: Gujarati OTT platform for movies, web series, shows, Natak, documentaries, and music" width="49%" /></a>
+  <a href="https://t.me/OrbittMM_bot" target="_blank" rel="noopener noreferrer"><img src="images/svg/projects/orbitt.svg" alt="Orbitt: Solana token automation platform for token creation, LP setup, sniping, trading, and volume boosting" width="49%" /></a>
+</p>
+<p align="center">
+  <img src="images/svg/projects/nubx.svg" alt="NubX: gold-backed stablecoin platform with minting controllers, custodian integration, wallet clusters, and KYC/AML" width="49%" />
+  <img src="images/svg/projects/more.svg" alt="More shipped work: Assetify, Blocktix, Epiko, CryptoTrade Tips, NFT Talent" width="49%" />
+</p>
 
 <hr/>
 
