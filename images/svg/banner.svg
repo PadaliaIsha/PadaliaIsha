@@ -20,6 +20,11 @@
     <clipPath id="card">
       <rect width="1100" height="240" rx="12"/>
     </clipPath>
+    <clipPath id="typing">
+      <rect x="114" y="118" width="0" height="46">
+        <animate attributeName="width" values="0;872;872;0;0" keyTimes="0;0.45;0.8;0.95;1" dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
   </defs>
 
   <style>
@@ -35,11 +40,9 @@
     .title   { animation: rise 1s ease-out both; }
     .stack   { animation: rise 1s ease-out 0.4s both; }
 
-    .roles { animation: rise 1s ease-out 0.2s both; }
-    .role { fill: #7DD3C8; animation: spotlight 9s ease-in-out infinite; }
-    .role.r2 { animation-delay: 3s; }
-    .role.r3 { animation-delay: 6s; }
-    .sep { fill: #5EEAD4; animation: pulse 3s ease-in-out infinite; }
+    .role { fill: #E0FFFA; }
+    .sep { fill: #5EEAD4; }
+    .cursor { animation: blink 0.8s step-end infinite; }
 
     @keyframes floatA { 0%,100% { transform: translate(0,0); } 50% { transform: translate(14px,-10px); } }
     @keyframes floatB { 0%,100% { transform: translate(0,0); } 50% { transform: translate(-16px,8px); } }
@@ -48,10 +51,7 @@
     @keyframes chain  { from { transform: translateX(0); } to { transform: translateX(-280px); } }
     @keyframes shine  { 0% { transform: translateX(-400px); } 60%,100% { transform: translateX(1300px); } }
     @keyframes rise   { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
-    @keyframes spotlight {
-      0%, 36%, 100% { fill: #7DD3C8; }
-      6%, 30%       { fill: #FFFFFF; }
-    }
+    @keyframes blink  { 0%,100% { opacity: 1; } 50% { opacity: 0; } }
   </style>
 
   <g clip-path="url(#card)">
@@ -115,13 +115,18 @@
   <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
     <text class="title" x="550" y="98" fill="#F8FAFC" font-size="60" font-weight="700">Hello, I'm Isha!</text>
 
-    <text class="roles" x="550" y="150" font-size="26" font-weight="600">
+    <text class="roles" x="550" y="150" font-size="26" font-weight="600" clip-path="url(#typing)">
       <tspan class="role r1">Technical Lead</tspan>
       <tspan class="sep" dx="6">•</tspan>
       <tspan class="role r2" dx="6">Full Stack Developer</tspan>
       <tspan class="sep" dx="6">•</tspan>
       <tspan class="role r3" dx="6">Web3/Blockchain Developer</tspan>
     </text>
+    <g class="cursor">
+      <rect x="116" y="124" width="3" height="34" rx="1.5" fill="#5EEAD4">
+        <animate attributeName="x" values="116;988;988;116;116" keyTimes="0;0.45;0.8;0.95;1" dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </g>
 
     <text class="stack" x="550" y="198" fill="#99F6E4" font-size="24" font-weight="500">Web3 | NodeJS | React</text>
   </g>
