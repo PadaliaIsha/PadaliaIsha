@@ -1,6 +1,6 @@
 <h1 align="center">👋</h1>
 <p align="center">
-  <img src="images/svg/banner.svg?v=7" alt="Hello, I'm Isha! Technical Lead, Full Stack Developer, Web3/Blockchain Developer. Web3 | NodeJS | React" width="900" />
+  <img src="images/svg/banner.svg?v=8" alt="Hello, I'm Isha! Technical Lead, Full Stack Developer, Web3/Blockchain Developer. Web3 | NodeJS | React" width="900" />
 </p>
 
 ### :space_invader: &nbsp;About Me
@@ -100,7 +100,7 @@
 ### :gear: &nbsp;GitHub & Community
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com/?user=PadaliaIsha&hide_border=true&theme=nightowl" alt="GitHub streak" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=PadaliaIsha&border_radius=14&border=1F2A44&background=45,111827,0B1020&ring=818CF8&fire=A78BFA&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=A5B4FC&sideLabels=CBD5E1&dates=94A3B8&stroke=334155" alt="GitHub streak" />
 </p>
 
 <p align="center">
@@ -118,6 +118,6 @@
 </picture>
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=PadaliaIsha&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/PadaliaIsha/PadaliaIsha?color=black&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=PadaliaIsha&style=flat-square&color=6366F1&label=Views" />
+<img src="https://badges.pufler.dev/visits/PadaliaIsha/PadaliaIsha?color=6366F1&logo=github&style=flat-square" />
 </p>
