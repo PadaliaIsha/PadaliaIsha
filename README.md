@@ -53,18 +53,7 @@ JOJO is a Gujarati OTT entertainment platform for streaming movies, web series, 
 :link: <a href="https://jojoapp.in/" target="_blank" rel="noopener noreferrer">jojoapp.in</a>
 </details>
 
-<details>
-  <summary>🪙 &nbsp;<b>NubX</b> &nbsp;·&nbsp; <i>Gold-Backed Stablecoin Platform</i></summary>
-  <br/>
-
-Multi-layered stablecoin with custom minting/burning controllers, banking custodian integration, hot/cold wallet clusters, and real-time ledger settlement. Includes automated KYC/AML onboarding and multi-tenant admin dashboards with regulatory reporting.
-
-`Solidity` `Node.js` `Microservices` `Wallets` `KYC/AML`
-
-:link: <a href="https://www.yudiz.com/portfolio/vaultledger/" target="_blank" rel="noopener noreferrer">View case study</a>
-</details>
-
-<details>
+<details open>
   <summary>⚡ &nbsp;<b>Orbitt</b> &nbsp;·&nbsp; <i>Solana Token Automation Platform</i></summary>
   <br/>
 
@@ -75,7 +64,16 @@ All-in-one Solana platform for token creation, LP setup, sniping, trading, auto-
 :link: <a href="https://t.me/OrbittMM_bot" target="_blank" rel="noopener noreferrer">t.me/OrbittMM_bot</a>
 </details>
 
-<details>
+<details open>
+  <summary>🪙 &nbsp;<b>NubX</b> &nbsp;·&nbsp; <i>Gold-Backed Stablecoin Platform</i></summary>
+  <br/>
+
+Multi-layered stablecoin with custom minting/burning controllers, banking custodian integration, hot/cold wallet clusters, and real-time ledger settlement. Includes automated KYC/AML onboarding and multi-tenant admin dashboards with regulatory reporting.
+
+`Solidity` `Node.js` `Microservices` `Wallets` `KYC/AML`
+</details>
+
+<details open>
   <summary>📦 &nbsp;<b>More Shipped Work</b></summary>
   <br/>
 
