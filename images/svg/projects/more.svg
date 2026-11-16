@@ -1,70 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="250" viewBox="0 0 495 250" role="img" aria-label="More Shipped Work: Assetify (RWA tokenization &amp; yield payouts), Blocktix (Gasless permissioned ticketing), Epiko (High-speed NFT minting &amp; bidding), CryptoTrade Tips (Whale tracking &amp; market analytics), NFT Talent (Multi-chain NFT marketplace)">
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="310" viewBox="0 0 420 310" role="img" aria-label="More Shipped Work: Assetify (RWA tokenization &amp; yields), Blocktix (Gasless NFT ticketing), Epiko (High-speed NFT minting), CryptoTrade Tips (Whale tracking), NFT Talent (Multi-chain marketplace)">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0B3D4A"/>
-      <stop offset="100%" stop-color="#0F766E"/>
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0B1020"/>
     </linearGradient>
-    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#5EEAD4"/>
-      <stop offset="50%" stop-color="#22D3EE"/>
-      <stop offset="100%" stop-color="#5EEAD4"/>
+    <radialGradient id="glow" cx="1" cy="0" r="0.9">
+      <stop offset="0%" stop-color="#6366F1" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="33%" stop-color="#8B5CF6"/>
+      <stop offset="66%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#6366F1"/>
     </linearGradient>
-    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.12"/>
-      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
-    </linearGradient>
-    <clipPath id="card"><rect width="495" height="250" rx="12"/></clipPath>
+    <clipPath id="card"><rect width="420" height="310" rx="14"/></clipPath>
   </defs>
   <style>
-    text { font-family: 'Segoe UI', Ubuntu, Arial, Helvetica, sans-serif; }
-    .emoji { font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji', sans-serif; font-size: 22px; }
-    .title { fill: #F8FAFC; font-size: 22px; font-weight: 700; }
-    .sub { fill: #99F6E4; font-size: 13px; font-style: italic; }
-    .desc { fill: #CCFBF1; font-size: 13.5px; }
-    .tag { fill: #E0FFFA; font-size: 11.5px; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
-    .item { fill: #CCFBF1; font-size: 13.5px; }
-    .item tspan.name { fill: #FFFFFF; font-weight: 700; }
-    .link { fill: #5EEAD4; font-size: 13px; font-weight: 600; }
+    text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+    .title { fill: #F8FAFC; font-size: 24px; font-weight: 700; letter-spacing: -0.2px; }
+    .sub { fill: #A5B4FC; font-size: 14px; font-weight: 500; }
+    .desc { fill: #CBD5E1; font-size: 15px; }
+    .tag { fill: #C7D2FE; font-size: 12.5px; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .item { fill: #CBD5E1; font-size: 15px; }
+    .item .name { fill: #F8FAFC; font-weight: 700; }
+    .link { fill: #A5B4FC; font-size: 14px; font-weight: 600; }
     .up { opacity: 0; animation: up 0.7s ease-out forwards; }
-    .ring { transform-origin: 40px 48px; animation: ring 2.4s ease-out infinite; }
-    .bar { animation: bar 4s linear infinite; }
-    .shine { animation: shine 7s ease-in-out infinite; }
-    @keyframes up { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
-    @keyframes ring { 0% { transform: scale(1); opacity: 0.6; } 100% { transform: scale(1.6); opacity: 0; } }
-    @keyframes bar { from { transform: translateX(0); } to { transform: translateX(-495px); } }
-    @keyframes shine { 0% { transform: translateX(-200px); } 50%, 100% { transform: translateX(695px); } }
+    .accent { animation: flow 6s linear infinite; }
+    .glow { animation: breathe 5s ease-in-out infinite; }
+    .orbit { transform-origin: 52px 52px; animation: spin 6s linear infinite; }
+    @keyframes up { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes flow { from { transform: translateX(0); } to { transform: translateX(-420px); } }
+    @keyframes breathe { 0%, 100% { opacity: 0.6; } 50% { opacity: 1; } }
+    @keyframes spin { to { transform: rotate(360deg); } }
   </style>
   <g clip-path="url(#card)">
-    <rect width="495" height="250" fill="url(#bg)"/>
-    <g class="bar"><rect width="990" height="4" fill="url(#bar)"/></g>
-    <rect class="shine" x="0" y="0" width="160" height="250" fill="url(#shine)"/>
+    <rect width="420" height="310" fill="url(#bg)"/>
+    <rect class="glow" width="420" height="310" fill="url(#glow)"/>
+    <g class="accent"><rect width="840" height="3" fill="url(#accent)"/></g>
   </g>
-  <circle class="ring" cx="40" cy="48" r="22" fill="none" stroke="#5EEAD4" stroke-width="2"/>
-  <circle cx="40" cy="48" r="22" fill="#5EEAD4" fill-opacity="0.18" stroke="#5EEAD4" stroke-opacity="0.6"/>
-  <text class="emoji" x="40" y="56" text-anchor="middle">📦</text>
+  <rect x="0.5" y="0.5" width="419" height="309" rx="14" fill="none" stroke="#1F2A44"/>
+  <rect x="24" y="24" width="56" height="56" rx="14" fill="#FFFFFF" fill-opacity="0.05" stroke="#334155"/>
+  <rect x="35" y="35" width="15" height="15" rx="4" fill="#818CF8"/>
+    <rect x="54" y="35" width="15" height="15" rx="4" fill="#A78BFA"/>
+    <rect x="35" y="54" width="15" height="15" rx="4" fill="#38BDF8"/>
+    <rect x="54" y="54" width="15" height="15" rx="4" fill="#F472B6"/>
   <g class="up" style="animation-delay:0.1s">
-    <text class="title" x="76" y="46">More Shipped Work</text>
-    <text class="sub" x="76" y="66">Web3, NFTs, analytics &amp; tokenization</text>
+    <text class="title" x="96" y="49">More Shipped Work</text>
+    <text class="sub" x="96" y="72">Web3 · NFTs · Analytics · Tokenization</text>
   </g>
   <g class="up" style="animation-delay:0.25s">
-    <circle cx="28" cy="101" r="3.5" fill="#5EEAD4"/>
-    <text class="item" x="40" y="106"><tspan class="name">Assetify</tspan>  ·  RWA tokenization &amp; yield payouts</text>
+    <circle cx="28" cy="117" r="3.5" fill="#818CF8"/>
+    <text class="item" x="42" y="122"><tspan class="name">Assetify</tspan> — RWA tokenization &amp; yields</text>
   </g>
   <g class="up" style="animation-delay:0.37s">
-    <circle cx="28" cy="127" r="3.5" fill="#5EEAD4"/>
-    <text class="item" x="40" y="132"><tspan class="name">Blocktix</tspan>  ·  Gasless permissioned ticketing</text>
+    <circle cx="28" cy="151" r="3.5" fill="#818CF8"/>
+    <text class="item" x="42" y="156"><tspan class="name">Blocktix</tspan> — Gasless NFT ticketing</text>
   </g>
   <g class="up" style="animation-delay:0.49s">
-    <circle cx="28" cy="153" r="3.5" fill="#5EEAD4"/>
-    <text class="item" x="40" y="158"><tspan class="name">Epiko</tspan>  ·  High-speed NFT minting &amp; bidding</text>
+    <circle cx="28" cy="185" r="3.5" fill="#818CF8"/>
+    <text class="item" x="42" y="190"><tspan class="name">Epiko</tspan> — High-speed NFT minting</text>
   </g>
   <g class="up" style="animation-delay:0.61s">
-    <circle cx="28" cy="179" r="3.5" fill="#5EEAD4"/>
-    <text class="item" x="40" y="184"><tspan class="name">CryptoTrade Tips</tspan>  ·  Whale tracking &amp; market analytics</text>
+    <circle cx="28" cy="219" r="3.5" fill="#818CF8"/>
+    <text class="item" x="42" y="224"><tspan class="name">CryptoTrade Tips</tspan> — Whale tracking</text>
   </g>
   <g class="up" style="animation-delay:0.73s">
-    <circle cx="28" cy="205" r="3.5" fill="#5EEAD4"/>
-    <text class="item" x="40" y="210"><tspan class="name">NFT Talent</tspan>  ·  Multi-chain NFT marketplace</text>
+    <circle cx="28" cy="253" r="3.5" fill="#818CF8"/>
+    <text class="item" x="42" y="258"><tspan class="name">NFT Talent</tspan> — Multi-chain marketplace</text>
   </g>
 </svg>
