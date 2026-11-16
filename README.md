@@ -1,6 +1,6 @@
 <h1 align="center">👋</h1>
 <p align="center">
-  <img src="images/svg/banner.svg?v=2" alt="Hello, I'm Isha! Technical Lead, Full Stack Developer. Web3 | NodeJS | React" width="900" />
+  <img src="images/svg/banner.svg?v=6" alt="Hello, I'm Isha! Technical Lead, Full Stack Developer, Web3/Blockchain Developer. Web3 | NodeJS | React" width="900" />
 </p>
 
 ### :space_invader: &nbsp;About Me
