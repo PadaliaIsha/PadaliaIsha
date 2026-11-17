@@ -7,10 +7,13 @@
 
 **Technical Lead & Technical Project Manager** at <a href="https://www.yudiz.com/" target="_blank" rel="noopener noreferrer">Yudiz Solutions Ltd.</a> with **8+ years** of building and delivering secure, scalable products for 10+ clients.
 
-- :link: &nbsp;**Blockchain** — Stablecoins, RWA tokenization, trading automation, and NFT platforms on EVM, Solana, and TON.
-- :building_construction: &nbsp;**Full Stack** — Web apps, OTT streaming platforms, admin dashboards, REST & GraphQL APIs, real-time systems, and mobile apps.
-- :compass: &nbsp;**Project Management** — Agile delivery, sprint planning, client alignment, code reviews, and on-time releases.
-- :cloud: &nbsp;**Infrastructure** — Microservices, AWS, Azure & Google Cloud, Docker, Kubernetes, and CI/CD pipelines.
+- :link: &nbsp;**Blockchain** — Stablecoins, RWA tokenization, and NFT platforms on EVM, Solana, and TON.
+- :robot: &nbsp;**Trading Automation** — Telegram bots, token launch tools, and market-making systems.
+- :building_construction: &nbsp;**Full Stack** — Web apps, admin dashboards, REST & GraphQL APIs, and real-time systems.
+- :clapper: &nbsp;**OTT & Mobile** — Streaming platforms and Flutter mobile apps built for scale.
+- :compass: &nbsp;**Project Management** — Agile sprints, client alignment, code reviews, and on-time releases.
+- :shield: &nbsp;**Security** — Code reviews, JWT & OAuth, rate limiting, OWASP practices, and multi-sig wallets.
+- :cloud: &nbsp;**Infrastructure** — Microservices, AWS, Azure & Google Cloud, Docker, and Kubernetes.
 
 <p align="center">
   <a href="mailto:ishapadalia24@gmail.com?subject=Hello%20Isha%20Padalia" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
