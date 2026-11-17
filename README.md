@@ -5,14 +5,12 @@
 
 ### :space_invader: &nbsp;About Me
 
-- :technologist: &nbsp;**Technical Lead & Technical Project Manager** at <a href="https://www.yudiz.com/" target="_blank" rel="noopener noreferrer">Yudiz Solutions Ltd.</a>
-- :building_construction: &nbsp;**Full Stack Engineer** who turns complex ideas into secure, scalable products, from architecture to production.
-- :compass: &nbsp;I bridge engineering and delivery: sprint planning, client alignment, code reviews, and on-time releases.
-- :link: &nbsp;**Full stack delivery** across web apps, dashboards, APIs, real-time systems, mobile, and Web3.
-- :chart_with_upwards_trend: &nbsp;**8+ years** shipping SaaS, OTT, fintech, trading, and decentralized platforms for 10+ clients.
-- :dart: &nbsp;**Currently focused on** scalable microservices, OTT streaming, and tokenized real-world assets.
-- :speech_balloon: &nbsp;**Ask me about** system architecture, API & database design, cloud, and scaling teams.
-- :handshake: &nbsp;**Open to** technical leadership roles, full stack & Web3 consulting, and collaborating on ambitious products.
+**Technical Lead & Technical Project Manager** at <a href="https://www.yudiz.com/" target="_blank" rel="noopener noreferrer">Yudiz Solutions Ltd.</a> with **8+ years** of building and delivering secure, scalable products for 10+ clients.
+
+- :link: &nbsp;**Blockchain** — Stablecoins, RWA tokenization, trading automation, and NFT platforms on EVM, Solana, and TON.
+- :building_construction: &nbsp;**Full Stack** — Web apps, OTT streaming platforms, admin dashboards, REST & GraphQL APIs, real-time systems, and mobile apps.
+- :compass: &nbsp;**Project Management** — Agile delivery, sprint planning, client alignment, code reviews, and on-time releases.
+- :cloud: &nbsp;**Infrastructure** — Microservices, AWS, Azure & Google Cloud, Docker, Kubernetes, and CI/CD pipelines.
 
 <p align="center">
   <a href="mailto:ishapadalia24@gmail.com?subject=Hello%20Isha%20Padalia" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,7 +33,7 @@
 | **Blockchain & Web3** | Ethereum / EVM &nbsp;·&nbsp; BNB Chain &nbsp;·&nbsp; Polygon &nbsp;·&nbsp; Solana &nbsp;·&nbsp; TON &nbsp;·&nbsp; Hyperledger Fabric |
 | **Web3 Tooling** | Hardhat &nbsp;·&nbsp; Foundry &nbsp;·&nbsp; Truffle &nbsp;·&nbsp; web3.js &nbsp;·&nbsp; ethers.js &nbsp;·&nbsp; Solana Anchor |
 | **Databases** | MongoDB &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Redis &nbsp;·&nbsp; IPFS |
-| **Cloud & DevOps** | AWS &nbsp;·&nbsp; Google Cloud &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; GitHub Actions &nbsp;·&nbsp; GitLab CI |
+| **Cloud & DevOps** | AWS &nbsp;·&nbsp; Azure &nbsp;·&nbsp; Google Cloud &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; GitHub Actions &nbsp;·&nbsp; GitLab CI |
 | **Project Management** | Agile &nbsp;·&nbsp; Scrum &nbsp;·&nbsp; Jira &nbsp;·&nbsp; Basecamp &nbsp;·&nbsp; Trello &nbsp;·&nbsp; Notion |
 
 <hr/>
