@@ -1,12 +1,149 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="240" viewBox="0 0 1100 240" role="img" aria-label="Hello, I'm Isha!">
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="240" viewBox="0 0 1100 240" role="img" aria-label="Hello, I'm Isha! Technical Lead, Full Stack Developer, Web3/Blockchain Developer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0B3D4A"/>
-      <stop offset="100%" stop-color="#0F766E"/>
+      <stop offset="0%" stop-color="#111827">
+        <animate attributeName="stop-color" values="#111827;#1E1B4B;#111827" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0B1020"/>
     </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#6366F1" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="accent" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1100" y2="0" spreadMethod="repeat">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="33%" stop-color="#8B5CF6"/>
+      <stop offset="66%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#6366F1"/>
+    </linearGradient>
+    <linearGradient id="titleFill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F8FAFC"/>
+      <stop offset="100%" stop-color="#C7D2FE"/>
+    </linearGradient>
+    <clipPath id="card">
+      <rect width="1100" height="240" rx="14"/>
+    </clipPath>
+    <clipPath id="typing">
+      <rect x="114" y="118" width="0" height="46">
+        <animate attributeName="width" values="0;872;872;0;0" keyTimes="0;0.45;0.8;0.95;1" dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
   </defs>
-  <rect width="1100" height="240" rx="12" fill="url(#bg)"/>
-  <text x="550" y="98" text-anchor="middle" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700">Hello, I'm Isha!</text>
-  <text x="550" y="152" text-anchor="middle" fill="#CCFBF1" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="500">Technical Lead, Full Stack Developer</text>
-  <text x="550" y="198" text-anchor="middle" fill="#99F6E4" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="500">Web3 | NodeJS | React</text>
+
+  <style>
+    .float-a { animation: floatA 9s ease-in-out infinite; }
+    .float-b { animation: floatB 11s ease-in-out infinite; }
+    .glow-a  { animation: drift 14s ease-in-out infinite; }
+    .glow-b  { animation: drift 18s ease-in-out infinite reverse; }
+    .pulse   { animation: pulse 3s ease-in-out infinite; }
+    .pulse.d1 { animation-delay: 1s; }
+    .pulse.d2 { animation-delay: 2s; }
+    .chain   { animation: chain 16s linear infinite; }
+    .shine   { animation: shine 6s ease-in-out infinite; }
+    .title   { animation: rise 1s ease-out both; }
+    .stack   { animation: rise 1s ease-out 0.4s both; }
+
+    .accent  { animation: accent 8s linear infinite; }
+    @keyframes accent { from { transform: translateX(0); } to { transform: translateX(-1100px); } }
+    .role { fill: #E0E7FF; }
+    .sep { fill: #818CF8; }
+    .cursor { animation: blink 0.8s step-end infinite; }
+
+    @keyframes floatA { 0%,100% { transform: translate(0,0); } 50% { transform: translate(14px,-10px); } }
+    @keyframes floatB { 0%,100% { transform: translate(0,0); } 50% { transform: translate(-16px,8px); } }
+    @keyframes drift  { 0%,100% { transform: translate(0,0); } 50% { transform: translate(260px,30px); } }
+    @keyframes pulse  { 0%,100% { opacity: 0.35; } 50% { opacity: 1; } }
+    @keyframes chain  { from { transform: translateX(0); } to { transform: translateX(-280px); } }
+    @keyframes shine  { 0% { transform: translateX(-400px); } 60%,100% { transform: translateX(1300px); } }
+    @keyframes rise   { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes blink  { 0%,100% { opacity: 1; } 50% { opacity: 0; } }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1100" height="240" fill="url(#bg)"/>
+
+    <circle class="glow-a" cx="180" cy="60" r="160" fill="url(#glow)"/>
+    <circle class="glow-b" cx="820" cy="190" r="180" fill="url(#glow2)"/>
+
+    <g class="float-a" stroke="#A5B4FC" stroke-opacity="0.35" stroke-width="1.2" fill="#A5B4FC">
+      <line x1="60" y1="50" x2="140" y2="95"/>
+      <line x1="140" y1="95" x2="100" y2="170"/>
+      <line x1="140" y1="95" x2="230" y2="70"/>
+      <line x1="100" y1="170" x2="200" y2="190"/>
+      <circle class="pulse" cx="60" cy="50" r="4"/>
+      <circle class="pulse d1" cx="140" cy="95" r="5"/>
+      <circle class="pulse d2" cx="100" cy="170" r="4"/>
+      <circle class="pulse" cx="230" cy="70" r="3.5"/>
+      <circle class="pulse d1" cx="200" cy="190" r="3.5"/>
+    </g>
+
+    <g class="float-b" stroke="#A5B4FC" stroke-opacity="0.35" stroke-width="1.2" fill="#A5B4FC">
+      <line x1="1040" y1="45" x2="960" y2="90"/>
+      <line x1="960" y1="90" x2="1010" y2="160"/>
+      <line x1="960" y1="90" x2="870" y2="60"/>
+      <line x1="1010" y1="160" x2="910" y2="185"/>
+      <circle class="pulse d2" cx="1040" cy="45" r="4"/>
+      <circle class="pulse" cx="960" cy="90" r="5"/>
+      <circle class="pulse d1" cx="1010" cy="160" r="4"/>
+      <circle class="pulse d2" cx="870" cy="60" r="3.5"/>
+      <circle class="pulse" cx="910" cy="185" r="3.5"/>
+    </g>
+
+    <g opacity="0.25">
+      <g class="chain" fill="none" stroke="#A5B4FC" stroke-width="1.5">
+        <rect x="0" y="218" width="40" height="14" rx="3"/><line x1="40" y1="225" x2="70" y2="225"/>
+        <rect x="70" y="218" width="40" height="14" rx="3"/><line x1="110" y1="225" x2="140" y2="225"/>
+        <rect x="140" y="218" width="40" height="14" rx="3"/><line x1="180" y1="225" x2="210" y2="225"/>
+        <rect x="210" y="218" width="40" height="14" rx="3"/><line x1="250" y1="225" x2="280" y2="225"/>
+        <rect x="280" y="218" width="40" height="14" rx="3"/><line x1="320" y1="225" x2="350" y2="225"/>
+        <rect x="350" y="218" width="40" height="14" rx="3"/><line x1="390" y1="225" x2="420" y2="225"/>
+        <rect x="420" y="218" width="40" height="14" rx="3"/><line x1="460" y1="225" x2="490" y2="225"/>
+        <rect x="490" y="218" width="40" height="14" rx="3"/><line x1="530" y1="225" x2="560" y2="225"/>
+        <rect x="560" y="218" width="40" height="14" rx="3"/><line x1="600" y1="225" x2="630" y2="225"/>
+        <rect x="630" y="218" width="40" height="14" rx="3"/><line x1="670" y1="225" x2="700" y2="225"/>
+        <rect x="700" y="218" width="40" height="14" rx="3"/><line x1="740" y1="225" x2="770" y2="225"/>
+        <rect x="770" y="218" width="40" height="14" rx="3"/><line x1="810" y1="225" x2="840" y2="225"/>
+        <rect x="840" y="218" width="40" height="14" rx="3"/><line x1="880" y1="225" x2="910" y2="225"/>
+        <rect x="910" y="218" width="40" height="14" rx="3"/><line x1="950" y1="225" x2="980" y2="225"/>
+        <rect x="980" y="218" width="40" height="14" rx="3"/><line x1="1020" y1="225" x2="1050" y2="225"/>
+        <rect x="1050" y="218" width="40" height="14" rx="3"/><line x1="1090" y1="225" x2="1120" y2="225"/>
+        <rect x="1120" y="218" width="40" height="14" rx="3"/><line x1="1160" y1="225" x2="1190" y2="225"/>
+        <rect x="1190" y="218" width="40" height="14" rx="3"/><line x1="1230" y1="225" x2="1260" y2="225"/>
+        <rect x="1260" y="218" width="40" height="14" rx="3"/><line x1="1300" y1="225" x2="1330" y2="225"/>
+        <rect x="1330" y="218" width="40" height="14" rx="3"/><line x1="1370" y1="225" x2="1400" y2="225"/>
+      </g>
+    </g>
+
+    <rect class="shine" x="0" y="0" width="220" height="240" fill="url(#shine)"/>
+    <g class="accent"><rect width="2200" height="3" fill="url(#accent)"/></g>
+  </g>
+  <rect x="0.5" y="0.5" width="1099" height="239" rx="14" fill="none" stroke="#1F2A44"/>
+
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" text-anchor="middle">
+    <text class="title" x="550" y="98" fill="url(#titleFill)" font-size="60" font-weight="700" letter-spacing="-0.5">Hello, I'm Isha!</text>
+
+    <text class="roles" x="550" y="150" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" clip-path="url(#typing)">
+      <tspan class="role r1">Technical Lead</tspan>
+      <tspan class="sep" dx="6">•</tspan>
+      <tspan class="role r2" dx="6">Full Stack Developer</tspan>
+      <tspan class="sep" dx="6">•</tspan>
+      <tspan class="role r3" dx="6">Web3/Blockchain Developer</tspan>
+    </text>
+    <g class="cursor">
+      <rect x="116" y="124" width="3" height="34" rx="1.5" fill="#818CF8">
+        <animate attributeName="x" values="116;988;988;116;116" keyTimes="0;0.45;0.8;0.95;1" dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <text class="stack" x="550" y="198" fill="#A5B4FC" font-size="24" font-weight="500">Web3 | NodeJS | React</text>
+  </g>
 </svg>

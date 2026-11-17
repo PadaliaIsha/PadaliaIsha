@@ -1,6 +1,6 @@
 <h1 align="center">👋</h1>
 <p align="center">
-  <img src="images/svg/banner.svg?v=2" alt="Hello, I'm Isha! Technical Lead, Full Stack Developer. Web3 | NodeJS | React" width="900" />
+  <img src="images/svg/banner.svg?v=8" alt="Hello, I'm Isha! Technical Lead, Full Stack Developer, Web3/Blockchain Developer. Web3 | NodeJS | React" width="900" />
 </p>
 
 ### :space_invader: &nbsp;About Me
@@ -36,53 +36,22 @@
 | **Cloud & DevOps** | AWS &nbsp;·&nbsp; Azure &nbsp;·&nbsp; Google Cloud &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; GitHub Actions &nbsp;·&nbsp; GitLab CI |
 | **Project Management** | Agile &nbsp;·&nbsp; Scrum &nbsp;·&nbsp; Jira &nbsp;·&nbsp; Basecamp &nbsp;·&nbsp; Trello &nbsp;·&nbsp; Notion |
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,solidity,rust,nodejs,nestjs,express,graphql,react,nextjs,flutter,mongodb,postgres,redis,ipfs,aws,gcp,docker,kubernetes,githubactions,gitlab&perline=11" alt="Tech stack icons" />
+</p>
+
 <hr/>
 
 ### :rocket: &nbsp;Featured Projects
 
-<details open>
-  <summary>🎬 &nbsp;<b>JOJO</b> &nbsp;·&nbsp; <i>Gujarati OTT Platform</i></summary>
-  <br/>
-
-JOJO is a Gujarati OTT entertainment platform for streaming movies, web series, shows, Natak, documentaries, and music content with a scalable streaming-ready backend and content delivery experience.
-
-`OTT` `Node.js` `React` `Streaming` `Content Platform`
-
-:link: <a href="https://jojoapp.in/" target="_blank" rel="noopener noreferrer">jojoapp.in</a>
-</details>
-
-<details>
-  <summary>🪙 &nbsp;<b>NubX</b> &nbsp;·&nbsp; <i>Gold-Backed Stablecoin Platform</i></summary>
-  <br/>
-
-Multi-layered stablecoin with custom minting/burning controllers, banking custodian integration, hot/cold wallet clusters, and real-time ledger settlement. Includes automated KYC/AML onboarding and multi-tenant admin dashboards with regulatory reporting.
-
-`Solidity` `Node.js` `Microservices` `Wallets` `KYC/AML`
-
-:link: <a href="https://www.yudiz.com/portfolio/vaultledger/" target="_blank" rel="noopener noreferrer">View case study</a>
-</details>
-
-<details>
-  <summary>⚡ &nbsp;<b>Orbitt</b> &nbsp;·&nbsp; <i>Solana Token Automation Platform</i></summary>
-  <br/>
-
-All-in-one Solana platform for token creation, LP setup, sniping, trading, auto-sell controls, and volume boosting through web and Telegram flows. Supports wallet campaigns, liquidity activity, and market-making workflows.
-
-`Solana` `Anchor` `Telegram` `Trading Automation`
-
-:link: <a href="https://t.me/OrbittMM_bot" target="_blank" rel="noopener noreferrer">t.me/OrbittMM_bot</a>
-</details>
-
-<details>
-  <summary>📦 &nbsp;<b>More Shipped Work</b></summary>
-  <br/>
-
-- **Assetify** &nbsp;·&nbsp; Real-world asset fractionalization with tokenization, yield payouts, and compliance records  
-- **Blocktix** &nbsp;·&nbsp; Gasless permissioned ticketing with secondary fractionalization and dupe-attack validation  
-- **Epiko** &nbsp;·&nbsp; High-speed NFT minting, listing, and open bidding with race-condition guards  
-- **CryptoTrade Tips** &nbsp;·&nbsp; On-chain whale tracking, market-depth analytics, and tiered access  
-- **NFT Talent** &nbsp;·&nbsp; Multi-chain ERC721/ERC1155 marketplace with multiple auction types
-</details>
+<p align="center">
+  <a href="https://jojoapp.in/" target="_blank" rel="noopener noreferrer"><img src="images/svg/projects/jojo.svg" alt="JOJO: Gujarati OTT platform for movies, web series, shows, Natak, documentaries, and music" width="49%" /></a>
+  <a href="https://t.me/OrbittMM_bot" target="_blank" rel="noopener noreferrer"><img src="images/svg/projects/orbitt.svg" alt="Orbitt: Solana token automation platform for token creation, LP setup, sniping, trading, and volume boosting" width="49%" /></a>
+</p>
+<p align="center">
+  <img src="images/svg/projects/nubx.svg" alt="NubX: gold-backed stablecoin platform with minting controllers, custodian integration, wallet clusters, and KYC/AML" width="49%" />
+  <img src="images/svg/projects/more.svg" alt="More shipped work: Assetify, Blocktix, Epiko, CryptoTrade Tips, NFT Talent" width="49%" />
+</p>
 
 <hr/>
 
@@ -129,7 +98,7 @@ All-in-one Solana platform for token creation, LP setup, sniping, trading, auto-
 ### :gear: &nbsp;GitHub & Community
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com/?user=PadaliaIsha&hide_border=true&theme=nightowl" alt="GitHub streak" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=PadaliaIsha&border_radius=14&border=1F2A44&background=45,111827,0B1020&ring=818CF8&fire=A78BFA&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=A5B4FC&sideLabels=CBD5E1&dates=94A3B8&stroke=334155" alt="GitHub streak" />
 </p>
 
 <p align="center">
@@ -147,6 +116,6 @@ All-in-one Solana platform for token creation, LP setup, sniping, trading, auto-
 </picture>
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=PadaliaIsha&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/PadaliaIsha/PadaliaIsha?color=black&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=PadaliaIsha&style=flat-square&color=6366F1&label=Views" />
+<img src="https://badges.pufler.dev/visits/PadaliaIsha/PadaliaIsha?color=6366F1&logo=github&style=flat-square" />
 </p>

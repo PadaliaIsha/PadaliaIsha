@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: PadaliaIsha
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#6366F1&color_dots=#EBEDF0,#C7D2FE,#A5B4FC,#818CF8,#4F46E5
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#A78BFA&color_dots=#161B22,#1E1B4B,#3730A3,#6366F1,#A5B4FC
 
       # Push the changes
       - name: Push github-contribution-grid-snake.svg to the output branch
